@@ -1,0 +1,92 @@
+[
+  {
+    "country": "Australia",
+    "breeds": [
+      "Australian Mist"
+    ]
+  },
+  {
+    "country": "United Kingdom",
+    "breeds": [
+      "Burmilla",
+      "British Longhair",
+      "British Shorthair",
+      "Asian Semi-longhair",
+      "British Semi-longhair"
+    ]
+  },
+  {
+    "country": "Burma and Thailand",
+    "breeds": [
+      "Burmese"
+    ]
+  },
+  {
+    "country": "Ethiopia",
+    "breeds": [
+      "Abyssinian"
+    ]
+  },
+  {
+    "country": "Arabian Peninsula",
+    "breeds": [
+      "Arabian Mau"
+    ]
+  },
+  {
+    "country": "developed in the United States (founding stock from Thailand)",
+    "breeds": [
+      "Balinese"
+    ]
+  },
+  {
+    "country": "developed in France (founding stock from Burma)",
+    "breeds": [
+      "Birman"
+    ]
+  },
+  {
+    "country": "France",
+    "breeds": [
+      "Chausie",
+      "Chartreux"
+    ]
+  },
+  {
+    "country": "developed in the United Kingdom (founding stock from Asia)",
+    "breeds": [
+      "Asian"
+    ]
+  },
+  {
+    "country": "Greece",
+    "breeds": [
+      "Aegean"
+    ]
+  },
+  {
+    "country": "United States",
+    "breeds": [
+      "Bambino",
+      "American Curl",
+      "American Bobtail",
+      "American Wirehair",
+      "Chantilly-Tiffany",
+      "American Shorthair",
+      "California Spangled"
+    ]
+  },
+  {
+    "country": "developed in the United States (founding stock from Asia)",
+    "breeds": [
+      "Bengal",
+      "Bombay"
+    ]
+  },
+  {
+    "country": "Brazil",
+    "breeds": [
+      "Brazilian Shorthair"
+    ]
+  }
+]
